@@ -23,5 +23,5 @@ A small practice project built with **React** and **Zustand** to learn lightweig
 
 ### 1️⃣ Clone the repo
 ```bash
-git clone https://github.com/your-username/react-zustand-practice.git
+git clone https://github.com/harshh-sharma/react-zustand-practice.git
 cd react-zustand-practice
